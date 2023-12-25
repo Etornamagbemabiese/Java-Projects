@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AgbemabieseEtornamM8L1
+comment1.params=numChosen\ checkingBalance\ savingsBalance
+comment1.target=int\ askUser(int,\ int,\ int)
+comment2.params=checkingBalance\ savingsBalance
+comment2.target=int\ depositChecking(int,\ int)
+comment3.params=checkingBalance\ savingsBalance
+comment3.target=int\ depositSavings(int,\ int)
+comment4.params=checkingBalance\ savingsBalance
+comment4.target=int\ withdrawSavings(int,\ int)
+comment5.params=checkingBalance\ savingsBalance
+comment5.target=int\ transfer(int,\ int)
+comment6.params=checkingBalance\ savingsBalance
+comment6.target=int\ withdrawChecking(int,\ int)
+numComments=7

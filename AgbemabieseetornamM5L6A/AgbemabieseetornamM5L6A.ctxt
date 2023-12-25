@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AgbemabieseetornamM5L6A
+comment0.text=\n\ Author\:\ Etornam\ Agbemabiese\n\ Program\ name\:\ AgbemabieseetornamM5L6A\n\ Date\:\ 10/17/22\n\ Description\:\ This\ program\ tests\ Ulam's\ Hypothesis\ for\ numbers\ 1-25\ \n\ Numbers\ 1-25\ converge\ to\ 1\ by\ these\ rules\:\ If\ odd,\ multiply\ by\ 3\ and\ add\ 1.\ If\ even,\ divide\ by\ 2.\n\ Difficulties\:\ None\n\ \ \n\ Things\ learned\:\ How\ to\ use\ for\ loops\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

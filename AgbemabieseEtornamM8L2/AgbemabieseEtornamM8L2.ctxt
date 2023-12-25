@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AgbemabieseEtornamM8L2
+comment1.params=
+comment1.target=void\ runner()
+comment2.params=width\ height\ length
+comment2.target=java.lang.String\ isosceles(int,\ int,\ int)
+comment3.params=width\ height\ length
+comment3.target=java.lang.String\ right(int,\ int,\ int)
+comment4.params=width\ height\ length
+comment4.target=java.lang.String\ equilateral(int,\ int,\ int)
+numComments=5
